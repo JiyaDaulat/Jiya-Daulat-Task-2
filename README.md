@@ -1,8 +1,7 @@
 # Jiya-Daulat-Task-2
 In this task, I analyzed a suspicious email to identify phishing characteristics and understand how attackers try to trick users.
 
-# Phishing Email Analysis
-
+# Phishing Email Summary
 # Sample Email
 
 I used a sample email screenshot which claims to be sent by Donald Trump and asks for filling a grant application.
